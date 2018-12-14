@@ -1,8 +1,8 @@
 # Face_Recognition_Keras (ML)
 
-**Overall: It is a simple Face Recognition project which used Keras and VGG16 (implement in Face.py) to implement**
+### **Overall: It is a simple Face Recognition project which used Keras and VGG16 (implement in Face.py) to implement**
 
-**Face DataSet Download:** https://drive.google.com/drive/folders/1xCWLdzEZenmooSlPxQDr9MuH_KR9m6ES?usp=sharing
+### **Face DataSet Download:** https://drive.google.com/drive/folders/1xCWLdzEZenmooSlPxQDr9MuH_KR9m6ES?usp=sharing
 
 ---
 
@@ -15,4 +15,4 @@
 **Result (Epoch 30), Test Loss: 0.8576, Test Accuracy: 81.1%**
 
 ![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/30Epochs.PNG)
-### ***Conclusion: Looks like it's overfitting (Epoch 15 Loss = 0.8256 v.s Overall Loss = 0.8576)***
+### ***Conclusion: Looks like it's overfitting (Epoch 15 Loss = 0.8256 v.s Epoch 30 Loss = 0.8576)***
