@@ -33,4 +33,6 @@
 ![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/35Epochs.PNG)
 ### ***Conclusion: It is better if we increase the Epoch (Epoch 30 Loss = 0.8576 v.s Epoch 35 Loss = 0.7736)***
 
+---
+
 ### ***Final Conclusion: Our Face Recognition project optimizes at about 35 Epochs***
