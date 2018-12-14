@@ -6,7 +6,7 @@
 
 ---
 
-**Process: Training Accuracy accelerate fast during 1~15 Epochs**
+**Process: Training Accuracy accelerates fast during 1~15 Epochs**
 
 ![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/First_15Epochs.PNG)
 
