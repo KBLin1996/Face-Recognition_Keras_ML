@@ -12,6 +12,4 @@
 
 ---
 
-**Result (Epoch 40), Test Accuracy: 81.52%**
-
-![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/40Epochs.PNG)
+**Result (Epoch ), Test Loss: , Test Accuracy: 81.52%**
