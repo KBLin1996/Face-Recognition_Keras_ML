@@ -16,4 +16,4 @@
 
 ![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/30Epochs.PNG)
 
-Conclusion: Looks like it's overfitting (Epoch 15 Loss = 0.8212 v.s Overall Loss = 0.8576)
+*Conclusion: Looks like it's overfitting (Epoch 15 Loss = 0.8212 v.s Overall Loss = 0.8576)*
