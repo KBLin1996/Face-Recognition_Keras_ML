@@ -22,7 +22,7 @@
 ![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/20Epochs.PNG)
 ### ***Conclusion: Even worse if we lower the Epoch (Epoch 30 Loss = 0.8576 v.s Epoch 35 Loss = 0.8636)***
 
-**Result (Epoch 35), Test Loss: 0.7736, Test Accuracy: 86.97%**
+**Result (Epoch 35), Test Loss: 0.7736, Test Accuracy: 82.97%**
 
 ![image](https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/35Epochs.PNG)
 ### ***Conclusion: It is better if we increase the Epoch (Epoch 30 Loss = 0.8576 v.s Epoch 35 Loss = 0.7736)***
