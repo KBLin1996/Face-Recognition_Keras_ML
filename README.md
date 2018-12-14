@@ -4,7 +4,7 @@
 
 ***Face DataSet Download:** https://drive.google.com/drive/folders/1xCWLdzEZenmooSlPxQDr9MuH_KR9m6ES?usp=sharing*
 
-**Remark: There are 39 people and 65 images for each person (Training Set/Testing Set: 35/30)**
+**Note → There are 39 people and 65 images for each person (Training Set/Testing Set: 35/30)**
 
 ---
 
