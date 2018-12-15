@@ -2,6 +2,8 @@
 
 **Overall: It is a simple Face Recognition project which used Keras and VGG16 (implement in Face.py) to implement**
 
+**Question: https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/Question.pptx**
+
 ***Face DataSet Download:** https://drive.google.com/drive/folders/1xCWLdzEZenmooSlPxQDr9MuH_KR9m6ES?usp=sharing*
 
 **(Note) There are 39 people and 65 images for each person (Training Set/Testing Set: 35/30)**
