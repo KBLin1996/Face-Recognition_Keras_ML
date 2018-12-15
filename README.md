@@ -38,4 +38,4 @@
 ---
 
 ### ***Final Conclusion: Our Face Recognition project optimizes at about 35 Epochs***
-### ***Report: https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/Face%20Recognition%20By%20Keras%20in%20Chinese%20(Report).pdf***
+### ***Report (implement in Chinese): https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/Face%20Recognition%20By%20Keras%20in%20Chinese%20(Report).pdf***
