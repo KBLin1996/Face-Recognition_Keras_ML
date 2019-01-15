@@ -1,6 +1,6 @@
 # Face_Recognition_Keras (ML)
 
-**Overall: It is a simple Face Recognition project using Keras and VGG16 (implement in Face.py) to implement**
+**Overall: It is a simple Face Recognition project using Keras and VGG16 (implement in Face.py)**
 
 **Question: https://github.com/KBLin1996/Face_Recognition_Keras-ML-/blob/master/Question.pptx**
 
